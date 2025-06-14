@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=风车cursorfree1.1l
+Name[en]=CursorFree1.1l
+Comment=Cursor编辑器缓存清理工具
+Comment[en]=Cursor Editor Cache Cleaner Tool
+Exec=python3 /path/to/cursor_cleaner/cursor_free_gui.py
+Icon=/path/to/cursor_cleaner/logo.ico
+Terminal=false
+Categories=Development;Utility;
+StartupNotify=true
+MimeType=application/x-cursor-cleaner;
